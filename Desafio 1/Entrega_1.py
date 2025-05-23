@@ -1,0 +1,11 @@
+nome = input("Digite seu nome: ")
+idade = input("Digite sua idade: ")
+cor_favorita = input("Digite sua cor favorita: ")
+gostos = input("Digite uma coisa que você gosta: ")
+fazendo = input("O que você está fazendo agora? ")
+
+print(f"\nSeu nome é {nome}.")
+print(f"Você tem {idade} anos.")
+print(f"Sua cor favorita é {cor_favorita}.")
+print(f"Você gosta de {gostos}.")
+print(f"Atualmente, você está {fazendo}!")
